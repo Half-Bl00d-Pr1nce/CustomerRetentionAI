@@ -1,3 +1,7 @@
+## Live Demo
+
+🚀 Streamlit App: https://customerretentionai-e8wwatr7fcub9rtpzxyjqc.streamlit.app/
+
 # 📉 Customer Churn Prediction & Retention Analytics
 
 An end-to-end Machine Learning project that predicts telecom customer churn using the IBM Telco Customer Churn dataset. The project covers the complete machine learning lifecycle, including data preprocessing, feature engineering, model development, imbalanced learning, explainability, business ROI analysis, and deployment using Streamlit.
